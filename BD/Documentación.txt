@@ -1,0 +1,11 @@
+diagrama relacional:
+https://lucid.app/lucidchart/d1d8a79e-7e4b-4e58-b077-679a014dccd3/edit?view_items=b-JVpuAi8cLa&invitationId=inv_a409ca77-6b78-40fb-93ef-8792c3c80237
+
+Canvas:
+https://lucid.app/lucidchart/d1d8a79e-7e4b-4e58-b077-679a014dccd3/edit?view_items=b-JVpuAi8cLa&invitationId=inv_a409ca77-6b78-40fb-93ef-8792c3c80237
+
+Diagrama E-R
+https://app.diagrams.net/#G1_ev2w81Qr1NarK8VhnHH1EuzBJLq69za#%7B%22pageId%22%3A%22_cWWnNsREDpTjvOXIeGv%22%7D
+
+Diagrama de Clases:
+https://app.diagrams.net/#G1KV3cM8WQjjbIxfyIOtHOxt1_EDmXPrN6#%7B%22pageId%22%3A%22w11v4BoS2hIuEUiUwffH%22%7D
